@@ -1,4 +1,4 @@
-= Java Hexagonal Architecture ecommerce for capitols challenge =
+= Java Hexagonal Architecture ecommerce for capitole challenge =
 
 This application uses a H2 Data Base, wich is a Data Base in memory.
 
